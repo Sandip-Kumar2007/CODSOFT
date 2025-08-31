@@ -43,17 +43,6 @@ Implemented using switch-case.
 
 Handles division by zero.
 
-📸 Output Examples
-(Add screenshots here if you want, e.g. Tic Tac Toe board, sample calculator output.)
-
-📖 How to Run
-Clone this repository:
-
-git clone https://github.com/username/cpp-internship-projects.git
-Navigate to project folder and compile code:
-
-g++ filename.cpp -o output
-./output
 🙌 Acknowledgment
 Thanks to CodSoft for providing this internship opportunity, guidance, and structured projects.
 
